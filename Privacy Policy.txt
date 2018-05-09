@@ -1,0 +1,4 @@
+Flattery is a skill intended for test use only, it was created by me to demonstrate a "hello-world" type of application. 
+Flattery will not collect information from the user.
+Flattery will not record any user responses, only recognize.
+Flattery is not intended to do anything else besides compliment you and give you general advice when asked, future implementations will update the privacy policy.
