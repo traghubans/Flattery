@@ -1,0 +1,3 @@
+Flattery is only intended to give you compliments and advice when asked.
+Flattery will update the terms of use when new features are added.
+Flattery is for test use only, not market use, and is a hello-world type demonstration.
